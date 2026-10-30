@@ -1,5 +1,13 @@
 # maimai 國際版譜面標籤資料
 
+## 直接瀏覽譜面與標籤
+
+[13.1](readable/13.1.md) · [13.2](readable/13.2.md) · [13.3](readable/13.3.md) · [13.4](readable/13.4.md) · [13.5](readable/13.5.md) · [13.6](readable/13.6.md) · [13.7](readable/13.7.md) · [13.8](readable/13.8.md) · [13.9](readable/13.9.md) · [14.0](readable/14.0.md)
+
+[標籤字典](readable/dictionary.md)
+
+按定數瀏覽各譜面的已檢出標籤及未知項目。這些是實驗性自動判定，尚未完成影片與人工複核。
+
 實驗性 maimai 譜面標籤，涵蓋國際版定數 13.1～14.0、一般 STD／DX 譜面，目錄凍結於 2026-10-26。
 
 ## 資料
